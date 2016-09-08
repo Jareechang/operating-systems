@@ -1,3 +1,4 @@
 VagrantFile
 /.vagrant/
 *.swp
+*.o
